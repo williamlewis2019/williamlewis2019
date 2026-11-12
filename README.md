@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm William Lewis
 
-<!--
-**williamlewis2019/williamlewis2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Agronomist & independent developer based in Wyoming, United States.
 
-Here are some ideas to get you started:
+I build **Agricalc** — a free collection of science-based agriculture calculators covering the full farming cycle: planting, fertilization, irrigation, harvest, and marketing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Agricalc
+- Website: https://agricalc.online
+- Source code: https://github.com/liulewis/agricalc
+- 134 calculators · no registration · works offline (PWA) · multi-language
+
+## What I work on
+- Agricultural calculation tools and reference data
+- Offline-first PWAs and static sites
+- Practical software for farmers and agronomists
+
+## Contact
+- hello@agricalc.online
